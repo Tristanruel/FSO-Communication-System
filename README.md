@@ -1,6 +1,6 @@
 # FSO Communication System
 
-This repository contains the source code for the ELG4912 Final Year Design Project (Winter 2025) at the University of Ottawa.
+This repository contains the source code for the ELG4912 Final Year Design Project (Winter-Fall 2025) at the University of Ottawa for Group 5. We are creating a Free-Space Optical Communication System.
 
 ## Cloning the Repository
 
